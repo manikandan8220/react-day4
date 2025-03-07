@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/http//manikandan8220.github.io/static/js/main.db7c9756.js",
-    "static/js/453.f5a5c0c9.chunk.js": "/http//manikandan8220.github.io/static/js/453.f5a5c0c9.chunk.js",
-    "index.html": "/http//manikandan8220.github.io/index.html",
-    "main.db7c9756.js.map": "/http//manikandan8220.github.io/static/js/main.db7c9756.js.map",
-    "453.f5a5c0c9.chunk.js.map": "/http//manikandan8220.github.io/static/js/453.f5a5c0c9.chunk.js.map"
+    "main.js": "/http//manikandan8220.github.io/reactday/static/js/main.7a4fa9c7.js",
+    "static/js/453.f5a5c0c9.chunk.js": "/http//manikandan8220.github.io/reactday/static/js/453.f5a5c0c9.chunk.js",
+    "index.html": "/http//manikandan8220.github.io/reactday/index.html",
+    "main.7a4fa9c7.js.map": "/http//manikandan8220.github.io/reactday/static/js/main.7a4fa9c7.js.map",
+    "453.f5a5c0c9.chunk.js.map": "/http//manikandan8220.github.io/reactday/static/js/453.f5a5c0c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.db7c9756.js"
+    "static/js/main.7a4fa9c7.js"
   ]
 }
